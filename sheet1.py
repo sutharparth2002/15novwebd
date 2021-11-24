@@ -11,9 +11,7 @@ print(True & False)
 print(True and False)
 print(((6>3) and (7<4) or (18==3)) and (9>3))
 print(True is False)
-#print(False in ‘False’
-
-#this throws an Error
+#print(False in ‘False’)   #this throws an Error
 print(((True == False) or (False > True)) and (False <= True))
 
 
